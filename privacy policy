@@ -70,8 +70,11 @@ Transfer of Your Personal Data
 Your information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to — and maintained on — computers located outside of Your country, including Google's secure global cloud infrastructure.
 
 Delete Your Personal Data
-You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You from within the Service settings or by contacting us directly via email.
-
+The Application operates entirely locally on your device and does not require user registration or account creation. We do not collect, store, or host any personal data on our servers; therefore, We do not provide a mechanism to delete data because no personal data is retained by us.
+For any technical identifiers automatically processed by third-party services (such as Google AdMob or Firebase):
+These data streams are managed directly under Google's privacy infrastructure.
+Users have full control over this data and can delete or reset their Advertising ID at any time via their device configuration (Settings > Privacy > Ads).
+Uninstalling the application will immediately erase all locally stored GPA calculations and app configurations from the device
 Disclosure of Your Personal Data
 We may disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency) or to protect against legal liability.
 
